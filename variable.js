@@ -9,3 +9,7 @@
 // let/var/const variable Name = value;
 var mark = 79;
 console.log(mark);
+let number = 20;
+console.log(number);
+const name = "Kunal";
+console.log(name);
