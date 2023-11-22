@@ -1,0 +1,47 @@
+header {
+  text-align: center;
+}
+.title {
+  color: white;
+  font-size: 35px;
+  font-family: monospace;
+}
+.description {
+  color: white;
+  font-size: 20;
+  font-family: monospace;
+}
+body {
+  background-color: black;
+}
+.tribute {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  max-width: 78rem;
+  margin: 0px auto;
+  background: white;
+  color: black;
+  align-items: center;
+  padding: 0px 0px 0px 1rem;
+}
+
+.tribute blockquote {
+  text-align: center;
+  font-size: 3rem;
+}
+.tribute img {
+  max-width: 100%;
+}
+.bio {
+  margin: 2rem auto;
+  padding: 0px 12.5rem;
+}
+
+.bio h2 {
+  color: white;
+  font-size: 50px;
+}
+.st {
+  color: white;
+  font-size: 20px;
+}
